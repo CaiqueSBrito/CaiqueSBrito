@@ -22,12 +22,6 @@ When I'm not coding or studying for college, you'll probably find me:
 * 🎮 Playing tactical FPS games like **VALORANT** or **CS 2**.
 
 ---
-
-### 📫 Let's Connect
-
-[(https://www.linkedin.com/in/caique-ds-brito)](https://www.linkedin.com/in/caique-ds-brito)
-caique.ds.brito@gmail.com
-
 <!--
 **CaiqueSBrito/CaiqueSBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
