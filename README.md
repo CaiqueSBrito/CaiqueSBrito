@@ -8,7 +8,7 @@ I am an evolving developer. Currently, I specialize in the Python ecosystem whil
 ### 🛠️ My Stack & Technologies
 
 **Main Stack:**
-Python, Django, FastAPI
+Python, Fast API, Django
 
 **Expanding Horizons (Currently Studying):**
 Java, Springboot
